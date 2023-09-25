@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Personal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #313131;
+        }
+    </style>
+</head>
+<body>
+    <h1>Mi Página Personal</h1>
+    <p>Mi usuario de Ipasen Dadogar372</p>
+
+    <h2>¿De dónde eres? </h2>
+    <p>De nueva sevilla, un barrio del pueblo Castilleja de la Cuesta</p>
+
+    <h2>¿Qué te motivó a elegir el curso de Desarrollo de Aplicaciones Web?</h2>
+    <p>Mi afán por aprender cosas nuevas,y mentalizado de que es una etapa donde formarme en ámbitos que no conozco y puede mejorar mucho</p>
+
+    <h2>¿Qué esperas aprender en este curso?</h2>
+    <p>Un alto nivel de programación y control de los ámbitos que rodean la misma.</p>
+
+    <h2>¿Tienes alguna experiencia previa en programación o diseño web?</h2>
+    <p>No,nunca he trabajado</p>
+
+    <h2>¿Cuáles son tus aficiones o pasatiempos favoritos?</h2>
+    <p>Me gusta mucho el gimnasio, aunque llevo tiempo sin poder ir por problemas médicos y me gusta bastante jugar videojuegos varios,¿Un Lolete?</p>
+    
+    <h2>¿Has trabajado en algún proyecto o aplicación anteriormente?</h2>
+    <p>Nunca he trabajado</p>
+
+    <h2>¿Dónde te ves en 5 años?</h2>
+    <p>Siguiendo mi formación, mi objetivo se encuentra en la carrera de matemáticas.</p>
+
+    <h2>¿Algún dato curioso o algo que quieras compartir con la clase?</h2>
+    <p>Soy illoJuaner</p>
+</body>
+</html>
